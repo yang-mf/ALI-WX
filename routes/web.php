@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+
+
+Route::get('/test/index','WX\WXController@index');
+Route::get('/phpinfo','WX\WXController@info');
+Route::get('/wx','WX\WXController@wx');
+Route::get('/wx/receiv','WX\WXController@receiv');
