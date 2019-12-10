@@ -81,20 +81,36 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    欢迎来到不毛之地
+                </div>
+                <div  style="margin-bottom: 30px;font-size: 42px;" >
+                    选择吧少年
                 </div>
 
-                <div class="links">
-                    <a href="https://laravel.com/docs">Docs</a>
-                    <a href="https://laracasts.com">Laracasts</a>
-                    <a href="https://laravel-news.com">News</a>
-                    <a href="https://blog.laravel.com">Blog</a>
-                    <a href="https://nova.laravel.com">Nova</a>
-                    <a href="https://forge.laravel.com">Forge</a>
-                    <a href="https://vapor.laravel.com">Vapor</a>
-                    <a href="https://github.com/laravel/laravel">GitHub</a>
+
+
+                {{--<div class="links">--}}
+                    {{--<a href="https://laravel.com/docs"></a>--}}
+                    {{--<a href="https://laracasts.com">Laracasts</a>--}}
+                    {{--<a href="https://laravel-news.com">News</a>--}}
+                    {{--<a href="https://blog.laravel.com">Blog</a>--}}
+                    {{--<a href="https://nova.laravel.com">Nova</a>--}}
+                    {{--<a href="https://forge.laravel.com">Forge</a>--}}
+                    {{--<a href="https://vapor.laravel.com">Vapor</a>--}}
+                    {{--<a href="https://github.com/laravel/laravel">GitHub</a>--}}
+                {{--</div>--}}
+                <div class="links" style="font-size: 42px;">
+                    <a href="#">猎人</a>
+                    <a href="#">农民</a>
+                    <a href="#">商人</a>
+                    <a href="#">奴隶</a>
+                    <a href="#">动物</a>
+                    <a href="#">半兽人</a>
                 </div>
             </div>
         </div>
     </body>
+    <div style="font-size:0.01px" >
+        小心当地的野蛮人，他们最喜欢......啊！！！！！
+    </div>
 </html>
